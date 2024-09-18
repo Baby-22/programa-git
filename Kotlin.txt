@@ -1,0 +1,2 @@
+usuario=ADSO2024
+contraseña=321ADSOjd
